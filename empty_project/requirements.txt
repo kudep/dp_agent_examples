@@ -1,0 +1,1 @@
+deeppavlov-agent==2.2.0
